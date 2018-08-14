@@ -7,9 +7,7 @@ public class TestTitle {
 	
 	@Test
 	public void TestTitle() {
-		int h=9;
-		int a=++h + ++h + --h  +h--;
-		System.out.println(a);
+		System.out.println("Test");
 	}
 
 }
